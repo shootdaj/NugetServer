@@ -190,3 +190,4 @@ _Pvt_Extensions/
 ModelManifest.xml
 NugetServer/Web.Release.config
 NugetServer/Web.Debug.config
+PublishScripts/*
