@@ -188,6 +188,8 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+
+#custom
 NugetServer/Web.Release.config
 NugetServer/Web.Debug.config
 PublishScripts/*
